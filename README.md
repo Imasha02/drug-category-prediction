@@ -99,5 +99,3 @@ A full interactive web application was developed using **Streamlit**.
 
 
 
-The following engineered features were added:
-
